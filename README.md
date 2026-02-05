@@ -1,25 +1,13 @@
 ## Hi, I'm Jayson
 
-**Director of Research and Innovation at [Menlo](https://menloinc.com)** — building the platform that manages IT infrastructure for 100+ K-12 school districts.
+**Director of Research and Innovation at [Menlo](https://menloinc.com)**
 
-### What I Do
+I've spent 15+ years building platform infrastructure that hundreds of thousands of users depend on daily. Developing systems that can't go down, making the architecture decisions that compound over years, and laying the foundational work that makes scaling possible.
 
-- Lead R&D for a vertical SaaS platform serving K-12 education
-- Design identity and authentication systems (Keycloak, SAML federation)
-- Build automation and tooling in PowerShell, Python, and more
-- Think about how architecture decisions drive business outcomes
-
-### Currently Working On
-
-- Centralized identity provider for multi-tenant K-12 environments
-- Infrastructure automation and monitoring at scale
-- SOC 2 compliance and security initiatives
-
-### Tech I Work With
-
-`PowerShell` `Python` `SQL Server` `Keycloak` `Azure AD` `Meraki` `VMware` `Proxmox`
+I focus on what lasts. Things that are simple enough to maintain, secure enough to trust, and efficient enough to grow with.
 
 ### Connect
 
 - [jaysonbrush.com](https://jaysonbrush.com)
 - [LinkedIn](https://linkedin.com/in/jaysonbrush)
+- [Twitter/X](https://x.com/jayzon915)
